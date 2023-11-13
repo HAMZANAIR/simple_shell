@@ -18,4 +18,3 @@
 - [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
 - [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
 - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
-- [Everything you need to know to start coding your own shell](https://www.notion.so/C-Programming-f13cdb9661db464f8ea326c5a2654e8e)
